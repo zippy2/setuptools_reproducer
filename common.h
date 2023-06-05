@@ -1,0 +1,1 @@
+int myfunction(void);
